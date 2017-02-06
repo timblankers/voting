@@ -1,0 +1,28 @@
+{
+  "name": "voting",
+  "version": "1.0.0",
+  "description": "Ethereum based voting application",
+  "main": "index.js",
+  "dependencies": {
+    "ethereumjs-testrpc": "^3.0.3",
+    "web3": "^0.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timblankers/voting.git"
+  },
+  "keywords": [
+    "ethereum",
+    "voting"
+  ],
+  "author": "Tim Blankers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timblankers/voting/issues"
+  },
+  "homepage": "https://github.com/timblankers/voting#readme"
+}
